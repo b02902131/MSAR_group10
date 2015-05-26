@@ -7,7 +7,6 @@ public class recorder : MonoBehaviour {
 	float[] samples;
 
 	void Start(){
-
 	}
 
 	void OnGUI(){
